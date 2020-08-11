@@ -1,0 +1,177 @@
+
+
+
+/*title*/
+
+#title{
+	background-color: #ff4068;
+	color: #fff;
+}
+.navbar  .brandname{
+	 font-family: 'Kaushan Script', cursive;
+	font-size: 3rem;
+	color: #fff;
+}
+.meet h1{
+    font-family: 'Lemonada', cursive;
+	padding-top: 10%;
+	font-size: 2rem;
+}
+.nametag{
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	padding-bottom: 5%;
+
+}
+.download-button{
+	margin: 7% 3% 7% 0;
+}
+.download-buttons{
+	margin: 5% 3% 5% 0 ;
+
+}
+.part-one{
+	padding:10% 20% ;
+}
+.imageone{
+
+	width: 77%; 
+	transform: rotate(15deg);
+	padding-bottom: 2%; 
+	 position: absolute; 
+	 padding-left: 5% ;
+}
+/*testimonial/description*/
+.love h2{
+	font-family: 'Kaushan Script', cursive;
+	font-size: 5rem;
+	margin-top: 15%;
+	color: #fff;
+
+}
+.second-review h3{
+	color: #fff;
+	
+	padding-top: 20%;
+	font-family: 'Lemonada', cursive;
+}
+.third-review h3{
+	font-family: 'Lemonada', cursive;
+	color: #fff;
+	padding-top: 20%;
+}
+.hand-image{
+	width: 84%;
+	transform: rotate(-10deg);
+	padding-top: 3%;
+}
+.description{
+	
+	text-align: center;
+
+}
+#descripy{
+	background-color: #ef8172;
+
+}
+#press{
+	text-align: center;
+	background-color:#ef8172;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.press-logo{
+	width: 15%;
+	margin:20px;
+}
+.love .lovesign{
+	width: 50%;
+	
+	
+}
+.second-review{
+
+}
+.boy-image{
+	width: 10%;
+}
+.carousel-item{
+	padding: 5% 15%;
+}
+
+.manlove h3{
+	font-family: 'Lemonada', cursive;
+	color: #fff;
+	padding-top: 20%;
+}
+}
+/*features*/
+
+p{
+	color: #8f8f8f;
+}
+
+
+
+
+#features{
+	text-align: center;
+}
+
+#features{
+	padding: 10% 10%;
+	text-align: center;
+	background-color: #fff;
+	position: relative;
+	z-index:- 1;
+}
+.icon{
+	color: #ef8172;
+	margin-bottom: 1.2rem;
+}
+.icon:hover{
+	color: #ff4c68;
+}
+/*pricing*/
+#pricing{
+	text-align: center;
+    padding: 100px;
+}
+
+.pricing-col{
+	padding: 3% 7%;
+}
+/*last*/
+#last{
+	background-color: #ff4068;
+	text-align: center;
+	color: #fff;
+	padding: 10% 15%;
+	
+}
+#last h2{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 2.5rem;
+}
+/*footer*/
+#footer{
+	padding: 7% 15%;
+	text-align: center;
+}
+@media(max-width: 640px;){
+	#descripy{
+		text-align: center;
+	}
+	#titile{
+		text-align: center;
+	}
+	.imageone{
+		position: static;
+		transform: rotate(0);
+	}
+
+}
+ 
+.so-icon{
+	margin: 20px 10px;
+}
